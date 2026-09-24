@@ -1,0 +1,4 @@
+add edge to B weight 1
+add edge to C weight 2
+add edge to D weight 4
+total: 7

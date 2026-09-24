@@ -1,0 +1,5 @@
+processing in priority order:
+ priority 1 : open incident channel
+ priority 1 : page on-call engineer
+ priority 2 : notify team
+ priority 3 : deploy database

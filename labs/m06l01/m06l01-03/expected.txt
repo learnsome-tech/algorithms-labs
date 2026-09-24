@@ -1,0 +1,3 @@
+A neighbours: ['B', 'C']
+B neighbours: ['A', 'D', 'E']
+matrix cells: 25

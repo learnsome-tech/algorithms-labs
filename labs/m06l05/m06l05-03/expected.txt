@@ -1,0 +1,4 @@
+A - B weight 1
+B - C weight 2
+B - D weight 4
+total: 7

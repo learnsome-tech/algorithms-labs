@@ -1,0 +1,4 @@
+appended: 16
+capacity: 16
+total copies: 15
+average copies: 0.9375

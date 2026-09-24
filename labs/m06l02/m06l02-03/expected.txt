@@ -1,0 +1,4 @@
+Alice distance 0
+Bob distance 1
+Carol distance 1
+Dave distance 2

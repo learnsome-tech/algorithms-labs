@@ -1,0 +1,3 @@
+n=15: avl height 4, sorted bst height 15
+n=127: avl height 7, sorted bst height 127
+n=1023: avl height 10, sorted bst height 1023

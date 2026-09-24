@@ -1,0 +1,2 @@
+pruned nodes: 19
+unpruned nodes: 63

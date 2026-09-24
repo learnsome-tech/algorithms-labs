@@ -1,0 +1,3 @@
+fanout with t equal to 512 is 1024
+levels for a million keys: 2
+disk reads for any search: 2

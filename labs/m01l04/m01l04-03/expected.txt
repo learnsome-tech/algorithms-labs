@@ -1,0 +1,4 @@
+best case (found first): 1
+worst case (found last): 1000
+missing item: 1000
+worst equals n: True

@@ -1,0 +1,4 @@
+before rotation, bf at root: -2
+after left rotation, root value: 2
+left child: 1 right child: 3
+new root height: 2

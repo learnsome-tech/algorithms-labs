@@ -1,0 +1,3 @@
+found 64 at index 32 in 6 steps
+search for 99 also took 6 steps
+array has 64 elements

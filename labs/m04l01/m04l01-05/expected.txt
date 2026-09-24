@@ -1,0 +1,3 @@
+n=10: ins=19, mrg=25, qks=23
+n=50: ins=615, mrg=222, qks=253
+n=100: ins=2230, mrg=547, qks=656

@@ -1,0 +1,4 @@
+weighted shortest path: greedy algorithm
+count arrangements: backtracking
+common subsequence: dynamic programming
+sort by comparison: divide and conquer

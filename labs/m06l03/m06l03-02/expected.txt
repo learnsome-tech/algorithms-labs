@@ -1,0 +1,6 @@
+visit A
+visit B
+visit D
+visit E
+visit F
+visit C

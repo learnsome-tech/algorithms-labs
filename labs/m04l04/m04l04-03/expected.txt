@@ -1,0 +1,6 @@
+dept asc, score desc, name asc:
+  carol    eng  90
+  alice    eng  85
+  eve      eng  85
+  bob      mkt  90
+  dave     mkt  85

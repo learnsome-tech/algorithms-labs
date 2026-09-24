@@ -1,0 +1,6 @@
+apple in filter: True
+banana in filter: True
+cherry in filter: True
+date in filter: True
+elderberry in filter: False
+fig in filter: False

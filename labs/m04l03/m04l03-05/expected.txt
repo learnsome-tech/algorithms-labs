@@ -1,0 +1,2 @@
+integer sqrt of 144 is 12
+minimum pages: 40

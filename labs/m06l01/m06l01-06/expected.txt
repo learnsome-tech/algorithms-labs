@@ -1,0 +1,6 @@
+A -> B weight 4
+A -> C weight 2
+B -> D weight 5
+C -> B weight 1
+C -> D weight 8
+directed edges: 5

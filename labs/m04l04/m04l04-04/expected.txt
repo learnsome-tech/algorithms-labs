@@ -1,0 +1,2 @@
+after dept sort: ['alice', 'bob', 'eve', 'carol', 'dave']
+after score sort: ['bob', 'dave', 'alice', 'eve', 'carol']

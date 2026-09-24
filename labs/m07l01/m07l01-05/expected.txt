@@ -1,0 +1,2 @@
+best sum: 6
+divide and conquer is order n log n

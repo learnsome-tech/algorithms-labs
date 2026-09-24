@@ -1,0 +1,2 @@
+dag has cycle: False
+cyclic has cycle: True

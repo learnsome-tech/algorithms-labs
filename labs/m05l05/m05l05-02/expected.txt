@@ -1,0 +1,3 @@
+min-heap array: [1, 3, 8, 5, 4]
+extracted minimum: 1
+heap after extraction: [3, 4, 8, 5]

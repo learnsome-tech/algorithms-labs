@@ -1,0 +1,2 @@
+after rl rotation, root: 2 height: 2
+root bf: 0 left: 1 right: 3

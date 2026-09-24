@@ -1,0 +1,5 @@
+heapified: [5, 17, 31, 42, 63, 88]
+after push: [5, 17, 31, 42, 63, 88, 50]
+popped: 5
+heap now: [17, 42, 31, 50, 63, 88]
+three largest: [88, 63, 50]

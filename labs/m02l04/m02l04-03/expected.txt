@@ -1,0 +1,5 @@
+words: ['star', 'arts', 'tars', 'rats', 'tsar']
+weak slots (sum of codes): [10, 10, 10, 10, 10]
+distinct weak slots: 1
+poly slots (base-31): [2, 0, 14, 14, 0]
+distinct poly slots: 3

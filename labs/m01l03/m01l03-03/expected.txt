@@ -1,0 +1,4 @@
+reversed in place: [7, 6, 5, 4, 3, 2, 1, 0]
+size before: 80056
+size after: 80056
+same size: True

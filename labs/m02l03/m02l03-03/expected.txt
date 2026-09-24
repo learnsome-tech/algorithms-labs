@@ -1,0 +1,2 @@
+unhashable type: 'list'
+tuple is hashable: True

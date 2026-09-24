@@ -1,0 +1,3 @@
+m=64: 26 false positives per hundred
+m=128: 5 false positives per hundred
+m=512: 0 false positives per hundred

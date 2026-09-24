@@ -1,0 +1,3 @@
+off-by-one on 18: -1
+fixed on 18: 9
+both on 8: 4 4

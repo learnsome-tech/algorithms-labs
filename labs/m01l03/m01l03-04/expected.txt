@@ -1,0 +1,3 @@
+sum of ten: 55
+recursion limit: 1000
+two thousand: RecursionError

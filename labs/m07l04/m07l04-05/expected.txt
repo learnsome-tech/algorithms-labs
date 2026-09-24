@@ -1,0 +1,3 @@
+edit_dist('kitten', 'sitting') = 3
+edit_dist('sunday', 'saturday') = 3
+edit_dist('abc', 'abc') = 0

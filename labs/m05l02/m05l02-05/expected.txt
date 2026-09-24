@@ -1,0 +1,3 @@
+balanced insert height: 3
+sorted insert height: 7
+sorted is linear in n: True

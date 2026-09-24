@@ -1,0 +1,3 @@
+find five: True
+find nine: False
+minimum: 1

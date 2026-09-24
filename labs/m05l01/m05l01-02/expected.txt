@@ -1,0 +1,4 @@
+root: 10
+left subtree root: 5
+right subtree root: 15
+deepest left leaf: 2

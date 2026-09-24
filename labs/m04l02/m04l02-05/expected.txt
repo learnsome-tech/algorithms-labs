@@ -1,0 +1,4 @@
+small range: [1, 1, 2, 3, 3, 4, 5, 5, 6, 9]
+k=10: count array needs 80 bytes
+k=100: count array needs 800 bytes
+k=100000: count array needs 800000 bytes

@@ -1,0 +1,9 @@
+queued: report.pdf
+queued: slides.pdf
+queued: photo.jpg
+printing: report.pdf
+printing: slides.pdf
+queued: invoice.pdf
+printing: photo.jpg
+printing: invoice.pdf
+idle

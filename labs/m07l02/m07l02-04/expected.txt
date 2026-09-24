@@ -1,0 +1,2 @@
+greedy: [4, 1, 1] coins used: 3
+optimal count: 2

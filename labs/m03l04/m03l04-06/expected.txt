@@ -1,0 +1,5 @@
+add 10  mean=10.0
+add 20  mean=15.0
+add 30  mean=20.0
+add 40  mean=30.0
+add 50  mean=40.0

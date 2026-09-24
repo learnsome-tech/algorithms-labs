@@ -1,0 +1,2 @@
+false positives: 5 out of 100
+false positive rate: 0.05

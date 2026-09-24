@@ -1,0 +1,4 @@
+1 to 4
+4 to 7
+8 to 11
+total chosen: 3

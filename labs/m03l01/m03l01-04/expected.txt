@@ -1,0 +1,3 @@
+inserting at front, 10000 calls: 49995000 shifts
+appending, 10000 calls: 10000 ops
+front insert is costlier: True

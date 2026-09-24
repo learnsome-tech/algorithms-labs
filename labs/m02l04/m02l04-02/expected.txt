@@ -1,0 +1,2 @@
+bad hash comparisons: 66
+good hash comparisons: 1

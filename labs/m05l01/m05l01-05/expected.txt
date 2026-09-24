@@ -1,0 +1,2 @@
+height: 3
+node count: 7

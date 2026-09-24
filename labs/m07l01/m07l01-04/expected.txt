@@ -1,0 +1,3 @@
+best sum: 6
+operations: 45
+brute force is quadratic in n

@@ -1,0 +1,2 @@
+{'s': 0, 'v': 10, 'u': 1, 't': 3}
+correct dist to t: 2

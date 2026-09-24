@@ -1,0 +1,5 @@
+red -> 2 | load 0.25 | resize? False
+green -> 0 | load 0.5 | resize? False
+blue -> 0 | load 0.75 | resize? True
+gold -> 3 | load 1.0 | resize? True
+pink -> 1 | load 1.25 | resize? True

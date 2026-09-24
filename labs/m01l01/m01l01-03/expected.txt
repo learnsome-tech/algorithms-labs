@@ -1,0 +1,2 @@
+dict lookup was faster: True
+ratio above five: True

@@ -1,0 +1,8 @@
+bucket 0: 0
+bucket 1: 1
+bucket 2: 1
+bucket 3: 0
+bucket 4: 2
+bucket 5: 0
+bucket 6: 2
+bucket 7: 2

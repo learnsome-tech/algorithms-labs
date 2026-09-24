@@ -1,0 +1,5 @@
+A distance 0
+B distance 3
+C distance 2
+D distance 8
+E distance 4

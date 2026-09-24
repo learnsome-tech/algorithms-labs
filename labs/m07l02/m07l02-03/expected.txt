@@ -1,0 +1,2 @@
+coins used: [25, 10, 5, 1]
+total: 4 coins
