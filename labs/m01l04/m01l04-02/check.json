@@ -2,16 +2,18 @@
   "lab": "m01l04-02",
   "lesson": "m01l04",
   "title": "Checking an upper bound by watching the ratio",
-  "mode": "read-along",
-  "runner": null,
-  "command": null,
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 ratio_check.py",
   "main": "ratio_check.py",
   "files": [
     "ratio_check.py"
   ],
   "stdin": null,
-  "expected": null,
-  "grading": null,
-  "requires": [],
-  "note": "The listing does not run cleanly in the lab sandbox (it relies on something the sandbox cannot provide), so the site shows it read-only."
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
 }

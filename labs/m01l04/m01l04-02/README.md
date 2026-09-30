@@ -1,7 +1,7 @@
 # m01l04-02 · Checking an upper bound by watching the ratio
 
 **Lesson:** [Big O, Big Omega And Big Theta](https://learnsome.tech/learn/algorithms-course/m01l04) (lesson 1.4, module 1: Complexity And Trade-offs) · Free  
-**Check:** Read along
+**Check:** Graded
 
 ## Goal
 
@@ -12,21 +12,33 @@ In the lesson: A linear work function counts exactly one operation per element. 
 ## Files
 
 - [`starter/ratio_check.py`](starter/ratio_check.py): the listing from the lesson
+- [`expected.txt`](expected.txt): the output the check compares with
 - [`check.json`](check.json): how `./check` runs and checks this lab
 
 ## Steps
 
-1. Read `starter/ratio_check.py` alongside the lesson.
-2. Follow it the way the lesson builds it:
+1. Go to the starter: `cd labs/m01l04/m01l04-02/starter`
+2. Read `ratio_check.py` the way the lesson builds it:
    - Lines 1–6: linear work function
    - Lines 7–12: nested loop
    - Lines 13–18: ratio grows by a factor
+3. Run it: `python3 ratio_check.py`.
+4. Check it from the repository root: `./check m01l04-02`.
+
+## Expected output
+
+```text
+n       lin  lin/n  quad      quad/n
+100 100 1 10000 100
+1000 1000 1 1000000 1000
+10000 10000 1 100000000 10000
+```
 
 ## How to check
 
-**Read along.** The listing does not run cleanly in the lab sandbox (it relies on something the sandbox cannot provide), so the site shows it read-only.
+`./check m01l04-02` copies `starter/` into a scratch directory and runs `python3 ratio_check.py` there, the way the site's lab sandbox does: that directory is the working directory and `HOME`, `LANG=C.UTF-8`, `TZ=UTC`, a limit of 10 seconds and 256 KiB of output per stream.
 
-There is nothing to check: `./check m01l04-02` says so and moves on.
+It passes when the output matches `expected.txt` by the site's rules, within the limits. Standard output is compared line by line; spaces at the end of a line and blank lines at the end do not count. If that differs, standard output followed by standard error is compared with Python traceback frames and blank lines set aside, so a lesson that shows an error passes when your program prints the same error. A pass here is a pass on the site.
 
 ---
 

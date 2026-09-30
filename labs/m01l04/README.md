@@ -8,7 +8,7 @@ Module 1: Complexity And Trade-offs · lesson 1.4 · Free · [Open the lesson](h
 
 | Lab | What it is | Check |
 | --- | --- | --- |
-| [m01l04-02](m01l04-02/) | Checking an upper bound by watching the ratio | Read along |
+| [m01l04-02](m01l04-02/) | Checking an upper bound by watching the ratio | Graded |
 | [m01l04-03](m01l04-03/) | Best, worst, and average case with linear search | Graded |
 | [m01l04-04](m01l04-04/) | Watching the ratio with a simple function | Graded |
 
