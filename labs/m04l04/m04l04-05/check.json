@@ -1,0 +1,22 @@
+{
+  "lab": "m04l04-05",
+  "lesson": "m04l04",
+  "title": "K-way external merge with heapq.merge",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 external_sort.py",
+  "main": "external_sort.py",
+  "files": [
+    "chunk0.txt",
+    "chunk1.txt",
+    "chunk2.txt",
+    "external_sort.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

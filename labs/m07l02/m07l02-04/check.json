@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-04",
+  "lesson": "m07l02",
+  "title": "Coin change: greedy fails on arbitrary denominations",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 coin_fail.py",
+  "main": "coin_fail.py",
+  "files": [
+    "coin_fail.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

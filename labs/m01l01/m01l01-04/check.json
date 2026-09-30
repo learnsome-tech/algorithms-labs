@@ -1,0 +1,19 @@
+{
+  "lab": "m01l01-04",
+  "lesson": "m01l01",
+  "title": "Asking whether something is in a list or a dict",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-asking-whether-something-is-in-a-list-or-a-d.py",
+  "main": "shell-asking-whether-something-is-in-a-list-or-a-d.py",
+  "files": [
+    "shell-asking-whether-something-is-in-a-list-or-a-d.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

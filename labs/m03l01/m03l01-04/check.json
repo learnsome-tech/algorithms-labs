@@ -1,0 +1,19 @@
+{
+  "lab": "m03l01-04",
+  "lesson": "m03l01",
+  "title": "Counting the cost of front insertion",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 frontappend.py",
+  "main": "frontappend.py",
+  "files": [
+    "frontappend.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-02",
+  "lesson": "m04l01",
+  "title": "Insertion sort: shifting and counting",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 insertion_sort.py",
+  "main": "insertion_sort.py",
+  "files": [
+    "insertion_sort.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

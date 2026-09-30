@@ -1,0 +1,19 @@
+{
+  "lab": "m06l02-02",
+  "lesson": "m06l02",
+  "title": "The deque as a FIFO queue",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-deque-as-a-fifo-queue.py",
+  "main": "shell-the-deque-as-a-fifo-queue.py",
+  "files": [
+    "shell-the-deque-as-a-fifo-queue.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

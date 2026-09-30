@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-02",
+  "lesson": "m05l04",
+  "title": "Searching in a manually built B-tree",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 btsearch.py",
+  "main": "btsearch.py",
+  "files": [
+    "btsearch.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

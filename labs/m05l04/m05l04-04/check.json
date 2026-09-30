@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-04",
+  "lesson": "m05l04",
+  "title": "Height arithmetic for a million keys",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 btheight.py",
+  "main": "btheight.py",
+  "files": [
+    "btheight.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

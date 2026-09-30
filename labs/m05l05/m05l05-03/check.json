@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-03",
+  "lesson": "m05l05",
+  "title": "The heapq module: heapify, push, pop, nlargest",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 heapqops.py",
+  "main": "heapqops.py",
+  "files": [
+    "heapqops.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

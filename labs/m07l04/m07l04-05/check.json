@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-05",
+  "lesson": "m07l04",
+  "title": "Edit distance: insertions, deletions and substitutions",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 editdist.py",
+  "main": "editdist.py",
+  "files": [
+    "editdist.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

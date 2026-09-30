@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-04",
+  "lesson": "m07l03",
+  "title": "Generating all permutations with a recursive generator",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 permutations.py",
+  "main": "permutations.py",
+  "files": [
+    "permutations.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

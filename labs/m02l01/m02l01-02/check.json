@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-02",
+  "lesson": "m02l01",
+  "title": "How Python hashes small integers",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-how-python-hashes-small-integers.py",
+  "main": "shell-how-python-hashes-small-integers.py",
+  "files": [
+    "shell-how-python-hashes-small-integers.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-04",
+  "lesson": "m02l01",
+  "title": "A rolling hash maps keys to buckets",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 poly_hash.py",
+  "main": "poly_hash.py",
+  "files": [
+    "poly_hash.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m07l01-02",
+  "lesson": "m07l01",
+  "title": "Merge sort implements all three steps",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 mergesort.py",
+  "main": "mergesort.py",
+  "files": [
+    "mergesort.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

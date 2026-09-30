@@ -1,0 +1,19 @@
+{
+  "lab": "m07l01-04",
+  "lesson": "m07l01",
+  "title": "Counting brute-force operations on max subarray",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 maxsub_brute.py",
+  "main": "maxsub_brute.py",
+  "files": [
+    "maxsub_brute.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

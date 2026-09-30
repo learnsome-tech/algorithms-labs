@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-03",
+  "lesson": "m06l01",
+  "title": "Adjacency matrix: a two-dimensional grid",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 adj_matrix.py",
+  "main": "adj_matrix.py",
+  "files": [
+    "adj_matrix.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

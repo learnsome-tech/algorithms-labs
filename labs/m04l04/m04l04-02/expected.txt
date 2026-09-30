@@ -1,0 +1,4 @@
+['fig', 'apple', 'banana', 'cherry']
+['banana', 'cherry', 'apple', 'fig']
+[('alice', 85), ('carol', 85), ('bob', 90)]
+[('alice', 85), ('bob', 90), ('carol', 85)]

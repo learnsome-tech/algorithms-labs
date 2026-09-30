@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-03",
+  "lesson": "m02l04",
+  "title": "Anagram keys all land in the same weak-hash bucket",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 collision.py",
+  "main": "collision.py",
+  "files": [
+    "collision.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-05",
+  "lesson": "m05l01",
+  "title": "Height and node count",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 treesize.py",
+  "main": "treesize.py",
+  "files": [
+    "treesize.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

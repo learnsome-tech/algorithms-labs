@@ -1,0 +1,19 @@
+{
+  "lab": "m04l05-04",
+  "lesson": "m04l05",
+  "title": "Bisect as a sorted-list interface",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-bisect-as-a-sorted-list-interface.py",
+  "main": "shell-bisect-as-a-sorted-list-interface.py",
+  "files": [
+    "shell-bisect-as-a-sorted-list-interface.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

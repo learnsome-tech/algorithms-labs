@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-03",
+  "lesson": "m07l04",
+  "title": "Knapsack tabulation: filling the DP table",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 knapsack.py",
+  "main": "knapsack.py",
+  "files": [
+    "knapsack.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

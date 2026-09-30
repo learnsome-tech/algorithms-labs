@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-02",
+  "lesson": "m07l02",
+  "title": "Interval scheduling: always pick the earliest finish",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 intervals.py",
+  "main": "intervals.py",
+  "files": [
+    "intervals.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

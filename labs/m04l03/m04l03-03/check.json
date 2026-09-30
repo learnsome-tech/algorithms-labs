@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-03",
+  "lesson": "m04l03",
+  "title": "Off-by-one: a one-character bug, a silent miss",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 obo.py",
+  "main": "obo.py",
+  "files": [
+    "obo.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l05-04",
+  "lesson": "m01l05",
+  "title": "Python list sizes in the shell",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-python-list-sizes-in-the-shell.py",
+  "main": "shell-python-list-sizes-in-the-shell.py",
+  "files": [
+    "shell-python-list-sizes-in-the-shell.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

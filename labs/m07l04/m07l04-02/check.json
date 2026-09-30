@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-02",
+  "lesson": "m07l04",
+  "title": "Fibonacci: naive recursion versus memoised recursion",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 fib_memo.py",
+  "main": "fib_memo.py",
+  "files": [
+    "fib_memo.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

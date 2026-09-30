@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-05",
+  "lesson": "m06l03",
+  "title": "Kahn's algorithm on a build-dependency graph",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 kahn.py",
+  "main": "kahn.py",
+  "files": [
+    "kahn.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

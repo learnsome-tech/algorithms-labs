@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-06",
+  "lesson": "m05l05",
+  "title": "Exploring heapq interactively",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-exploring-heapq-interactively.py",
+  "main": "shell-exploring-heapq-interactively.py",
+  "files": [
+    "shell-exploring-heapq-interactively.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

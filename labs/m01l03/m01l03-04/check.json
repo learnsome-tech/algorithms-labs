@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-04",
+  "lesson": "m01l03",
+  "title": "Recursion and the call stack",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 recursive_sum.py",
+  "main": "recursive_sum.py",
+  "files": [
+    "recursive_sum.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

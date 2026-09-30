@@ -1,76 +1,137 @@
-<img src="https://learnsome.tech/logo.png" width="48" alt="LearnSome.tech">
+<p>
+  <a href="https://learnsome.tech/courses/algorithms-course">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/wordmark-inverse.svg">
+      <img src=".github/assets/wordmark.svg" alt="LearnSome.tech" width="260">
+    </picture>
+  </a>
+</p>
 
 # Algorithms & Data Structures for Working Engineers
 
-The data structures and algorithms behind everyday systems, taught through the problems they solve and measured in Python you can run. 7 modules, 35 lessons, five to nine minutes each: complexity and trade-offs, hashing, sequences, sorting and searching, trees, graphs, and the problem-solving techniques (divide and conquer, greedy, backtracking, dynamic programming) that turn a problem statement into a working algorithm.
+**The Structures and Trade-offs Behind Everyday Systems**
 
-## Watch and read
+The data structures and algorithms behind everyday systems, taught through the problems they solve and measured in Python you can run. 7 modules, 35 lessons, five to nine minutes each: complexity and trade-offs, hashing, sequences, sorting and searching, trees, graphs, and the problem-solving techniques (divide and conquer, greedy, backtracking, dynamic programming) that turn a problem statement into a working algorithm. Intermediate level, about 4 hours.
 
-- **Course page**: [https://learnsome.tech/courses/algorithms-course](https://learnsome.tech/courses/algorithms-course)
-- **Video player**: [https://learnsome.tech/courses/algorithms-course/watch](https://learnsome.tech/courses/algorithms-course/watch)
-- **Handbook PDF**: [https://learnsome.tech/handbooks/algorithms/book.pdf](https://learnsome.tech/handbooks/algorithms/book.pdf)
-- **On-site handbook**: [https://learnsome.tech/courses/algorithms-course/book](https://learnsome.tech/courses/algorithms-course/book)
+This repository holds the labs of the LearnSome.tech course [Algorithms & Data Structures for Working Engineers](https://learnsome.tech/courses/algorithms-course): each lab's starter files, a README with the goal, the steps and the expected output, and `./check`, which tests your work the way the site does.
 
-## What is in this repository
+## Start
 
-This repository contains code artifacts, exercises and reference files for the lessons in this course.
-35 lessons include a `labs/<lessonId>/` folder.
-Each folder is named after the lesson identifier (e.g. `labs/m01l01/`) and contains the
-artifact files shown in the course video, an `EXERCISES.md` with hands-on tasks, and
-sub-directories named by artifact reference (e.g. `m01l01-02/`).
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/learnsome-tech/algorithms-labs?quickstart=1)
 
-## Lessons
+- **Codespaces:** the badge opens this repository in a dev container with Python 3.14.7, as in the site's lab sandbox.
+- **On your machine:**
 
-| # | Lesson | Watch | Labs | Handbook |
-|---|--------|-------|------|----------|
-| | **Complexity And Trade-offs** | | | |
-| 1 | Why Complexity Matters In Production | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m01l01) | [labs/m01l01/](labs/m01l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-1-1) |
-| 2 | Recognising The Common Growth Rates | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m01l02) | [labs/m01l02/](labs/m01l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-1-2) |
-| 3 | Space, In-Place Work And The Call Stack | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m01l03) | [labs/m01l03/](labs/m01l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-1-3) |
-| 4 | Big O, Big Omega And Big Theta | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m01l04) | [labs/m01l04/](labs/m01l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-1-4) |
-| 5 | Amortised Analysis: Why Append Is Cheap | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m01l05) | [labs/m01l05/](labs/m01l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-1-5) |
-| | **Hashing: Structure Behind Everything Fast** | | | |
-| 6 | What A Hash Function Promises | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m02l01) | [labs/m02l01/](labs/m02l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-2-1) |
-| 7 | Hash Tables: Chaining, Open Addressing And Load Factor | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m02l02) | [labs/m02l02/](labs/m02l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-2-2) |
-| 8 | Python Dicts And Sets Under The Hood | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m02l03) | [labs/m02l03/](labs/m02l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-2-3) |
-| 9 | Collisions In Practice And Hash Flooding | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m02l04) | [labs/m02l04/](labs/m02l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-2-4) |
-| 10 | Bloom Filters: Membership Without The Data | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m02l05) | [labs/m02l05/](labs/m02l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-2-5) |
-| | **Sequences: Arrays, Lists, Stacks And Queues** | | | |
-| 11 | Arrays: Contiguous Memory And Constant-Time Access | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m03l01) | [labs/m03l01/](labs/m03l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-3-1) |
-| 12 | Linked Lists: Nodes, Pointers And Sentinels | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m03l02) | [labs/m03l02/](labs/m03l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-3-2) |
-| 13 | Stacks And Queues: Last In Or First In | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m03l03) | [labs/m03l03/](labs/m03l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-3-3) |
-| 14 | Deques And Ring Buffers | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m03l04) | [labs/m03l04/](labs/m03l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-3-4) |
-| 15 | Choosing The Right Sequence | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m03l05) | [labs/m03l05/](labs/m03l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-3-5) |
-| | **Sorting And Searching** | | | |
-| 16 | Comparison Sorts: Insertion, Merge And Quicksort | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m04l01) | [labs/m04l01/](labs/m04l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-4-1) |
-| 17 | Counting And Radix Sort: Beating N Log N | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m04l02) | [labs/m04l02/](labs/m04l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-4-2) |
-| 18 | Binary Search And Its Invariant | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m04l03) | [labs/m04l03/](labs/m04l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-4-3) |
-| 19 | Sorting In Real Systems: Stability, Keys And External Sort | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m04l04) | [labs/m04l04/](labs/m04l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-4-4) |
-| 20 | Searching With Hashes Versus Trees | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m04l05) | [labs/m04l05/](labs/m04l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-4-5) |
-| | **Trees: Hierarchies, Search And Balance** | | | |
-| 21 | Binary Trees And Their Traversals | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m05l01) | [labs/m05l01/](labs/m05l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-5-1) |
-| 22 | Binary Search Trees: Search, Insert And Delete | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m05l02) | [labs/m05l02/](labs/m05l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-5-2) |
-| 23 | AVL Trees: Rotations That Keep The Guarantee | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m05l03) | [labs/m05l03/](labs/m05l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-5-3) |
-| 24 | B-Trees: The Structure Behind Every Database Index | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m05l04) | [labs/m05l04/](labs/m05l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-5-4) |
-| 25 | Heaps And Priority Queues | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m05l05) | [labs/m05l05/](labs/m05l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-5-5) |
-| | **Graphs And Their Algorithms** | | | |
-| 26 | Representing A Graph: Matrix Or Adjacency List | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m06l01) | [labs/m06l01/](labs/m06l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-6-1) |
-| 27 | Breadth-First Search And Shortest Paths By Hops | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m06l02) | [labs/m06l02/](labs/m06l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-6-2) |
-| 28 | Depth-First Search, Cycles And Topological Order | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m06l03) | [labs/m06l03/](labs/m06l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-6-3) |
-| 29 | Dijkstra: Shortest Paths With A Priority Queue | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m06l04) | [labs/m06l04/](labs/m06l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-6-4) |
-| 30 | Minimum Spanning Trees: Kruskal And Prim | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m06l05) | [labs/m06l05/](labs/m06l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-6-5) |
-| | **Problem-Solving Techniques** | | | |
-| 31 | Divide And Conquer And The Recurrence | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m07l01) | [labs/m07l01/](labs/m07l01/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-7-1) |
-| 32 | Greedy Algorithms: When Local Is Global | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m07l02) | [labs/m07l02/](labs/m07l02/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-7-2) |
-| 33 | Backtracking: Search With Pruning | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m07l03) | [labs/m07l03/](labs/m07l03/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-7-3) |
-| 34 | Dynamic Programming: Memoisation And Tabulation | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m07l04) | [labs/m07l04/](labs/m07l04/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-7-4) |
-| 35 | Recognising The Pattern | [▶](https://learnsome.tech/courses/algorithms-course/watch?lesson=m07l05) | [labs/m07l05/](labs/m07l05/) | [§](https://learnsome.tech/courses/algorithms-course/book#lesson-7-5) |
+  ```sh
+  git clone https://github.com/learnsome-tech/algorithms-labs.git
+  cd algorithms-labs
+  ./check m01l01-02
+  ```
 
-## Exercises
+  You need Python 3 for `./check`, and for the labs themselves Python 3.14.7. Other versions mostly work, but only the sandbox's versions are sure to print what the site prints. VS Code's Dev Containers extension builds the same container as Codespaces (x86-64).
 
-Each lesson folder contains an `EXERCISES.md` with hands-on tasks drawn directly from the course material.
-Open the file for a lesson to see the tasks and, where provided, hints.
+## Doing a lab
 
----
+1. Open the lesson on LearnSome.tech and the lab folder beside it: `labs/<lesson>/<lab>/`. The lab README has the goal, the steps and the expected output.
+2. Work in the lab's `starter/` folder.
+3. From the repository root, run `./check <lab>` (for example `./check m01l01-02`), or `./check <lesson>` for all labs of a lesson, or `./check --all`. `./check --list` shows every lab and how it is checked.
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+`./check` runs your starter the way the site's lab sandbox does: in a scratch copy that is its working directory and `HOME`, with `LANG=C.UTF-8`, `TZ=UTC`, `input.txt` on standard input, 10 seconds and 256 KiB of output per stream. It then compares the output with the site's own rules, so a pass here is a pass on the site.
+
+| Check | What `./check` does | Labs |
+| --- | --- | --- |
+| Graded | Runs the program and compares its output with `expected.txt`. | 126 |
+| Runs, not graded | Runs the program and shows its output; the site gives no pass or fail, and the lab README says why. | 2 |
+| Read along | Nothing to run here: the site shows the listing read-only, and the lab README says honestly what it needs (Docker, a cluster, a cloud account...). | 1 |
+
+## What is published, and what is not
+
+Every lab's starter is the code the lesson shows on screen, which is also what the lab editor on the site opens with. Where that code is the whole program, such as a recorded shell session or a script from the video, it is published as it is: it is the lesson content. Nothing beyond the lesson is published. There are no reference solutions and no answers to the lesson exercises, and nothing the site keeps private.
+
+Pro lessons' labs are here as starters too. LearnSome.tech runs and grades your labs in its sandbox, hosts the videos and keeps your progress; running and grading a Pro lab on the site needs Pro.
+
+## Modules and lessons
+
+### Module 1: Complexity And Trade-offs
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 1.1 | [Why Complexity Matters In Production](https://learnsome.tech/learn/algorithms-course/m01l01) | [3 labs](labs/m01l01/) | Free |
+| 1.2 | [Recognising The Common Growth Rates](https://learnsome.tech/learn/algorithms-course/m01l02) | [4 labs](labs/m01l02/) | Free |
+| 1.3 | [Space, In-Place Work And The Call Stack](https://learnsome.tech/learn/algorithms-course/m01l03) | [4 labs](labs/m01l03/) | Free |
+| 1.4 | [Big O, Big Omega And Big Theta](https://learnsome.tech/learn/algorithms-course/m01l04) | [3 labs](labs/m01l04/) | Free |
+| 1.5 | [Amortised Analysis: Why Append Is Cheap](https://learnsome.tech/learn/algorithms-course/m01l05) | [3 labs](labs/m01l05/) | Free |
+
+### Module 2: Hashing: Structure Behind Everything Fast
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 2.1 | [What A Hash Function Promises](https://learnsome.tech/learn/algorithms-course/m02l01) | [3 labs](labs/m02l01/) | Pro |
+| 2.2 | [Hash Tables: Chaining, Open Addressing And Load Factor](https://learnsome.tech/learn/algorithms-course/m02l02) | [3 labs](labs/m02l02/) | Pro |
+| 2.3 | [Python Dicts And Sets Under The Hood](https://learnsome.tech/learn/algorithms-course/m02l03) | [3 labs](labs/m02l03/) | Pro |
+| 2.4 | [Collisions In Practice And Hash Flooding](https://learnsome.tech/learn/algorithms-course/m02l04) | [3 labs](labs/m02l04/) | Pro |
+| 2.5 | [Bloom Filters: Membership Without The Data](https://learnsome.tech/learn/algorithms-course/m02l05) | [3 labs](labs/m02l05/) | Pro |
+
+### Module 3: Sequences: Arrays, Lists, Stacks And Queues
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 3.1 | [Arrays: Contiguous Memory And Constant-Time Access](https://learnsome.tech/learn/algorithms-course/m03l01) | [4 labs](labs/m03l01/) | Pro |
+| 3.2 | [Linked Lists: Nodes, Pointers And Sentinels](https://learnsome.tech/learn/algorithms-course/m03l02) | [3 labs](labs/m03l02/) | Pro |
+| 3.3 | [Stacks And Queues: Last In Or First In](https://learnsome.tech/learn/algorithms-course/m03l03) | [4 labs](labs/m03l03/) | Pro |
+| 3.4 | [Deques And Ring Buffers](https://learnsome.tech/learn/algorithms-course/m03l04) | [4 labs](labs/m03l04/) | Pro |
+| 3.5 | [Choosing The Right Sequence](https://learnsome.tech/learn/algorithms-course/m03l05) | [3 labs](labs/m03l05/) | Pro |
+
+### Module 4: Sorting And Searching
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 4.1 | [Comparison Sorts: Insertion, Merge And Quicksort](https://learnsome.tech/learn/algorithms-course/m04l01) | [5 labs](labs/m04l01/) | Pro |
+| 4.2 | [Counting And Radix Sort: Beating N Log N](https://learnsome.tech/learn/algorithms-course/m04l02) | [4 labs](labs/m04l02/) | Pro |
+| 4.3 | [Binary Search And Its Invariant](https://learnsome.tech/learn/algorithms-course/m04l03) | [4 labs](labs/m04l03/) | Pro |
+| 4.4 | [Sorting In Real Systems: Stability, Keys And External Sort](https://learnsome.tech/learn/algorithms-course/m04l04) | [4 labs](labs/m04l04/) | Pro |
+| 4.5 | [Searching With Hashes Versus Trees](https://learnsome.tech/learn/algorithms-course/m04l05) | [4 labs](labs/m04l05/) | Pro |
+
+### Module 5: Trees: Hierarchies, Search And Balance
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 5.1 | [Binary Trees And Their Traversals](https://learnsome.tech/learn/algorithms-course/m05l01) | [4 labs](labs/m05l01/) | Pro |
+| 5.2 | [Binary Search Trees: Search, Insert And Delete](https://learnsome.tech/learn/algorithms-course/m05l02) | [4 labs](labs/m05l02/) | Pro |
+| 5.3 | [AVL Trees: Rotations That Keep The Guarantee](https://learnsome.tech/learn/algorithms-course/m05l03) | [4 labs](labs/m05l03/) | Pro |
+| 5.4 | [B-Trees: The Structure Behind Every Database Index](https://learnsome.tech/learn/algorithms-course/m05l04) | [4 labs](labs/m05l04/) | Pro |
+| 5.5 | [Heaps And Priority Queues](https://learnsome.tech/learn/algorithms-course/m05l05) | [5 labs](labs/m05l05/) | Pro |
+
+### Module 6: Graphs And Their Algorithms
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 6.1 | [Representing A Graph: Matrix Or Adjacency List](https://learnsome.tech/learn/algorithms-course/m06l01) | [4 labs](labs/m06l01/) | Pro |
+| 6.2 | [Breadth-First Search And Shortest Paths By Hops](https://learnsome.tech/learn/algorithms-course/m06l02) | [4 labs](labs/m06l02/) | Pro |
+| 6.3 | [Depth-First Search, Cycles And Topological Order](https://learnsome.tech/learn/algorithms-course/m06l03) | [4 labs](labs/m06l03/) | Pro |
+| 6.4 | [Dijkstra: Shortest Paths With A Priority Queue](https://learnsome.tech/learn/algorithms-course/m06l04) | [3 labs](labs/m06l04/) | Pro |
+| 6.5 | [Minimum Spanning Trees: Kruskal And Prim](https://learnsome.tech/learn/algorithms-course/m06l05) | [4 labs](labs/m06l05/) | Pro |
+
+### Module 7: Problem-Solving Techniques
+
+| # | Lesson | Labs | Access |
+| --- | --- | --- | --- |
+| 7.1 | [Divide And Conquer And The Recurrence](https://learnsome.tech/learn/algorithms-course/m07l01) | [4 labs](labs/m07l01/) | Pro |
+| 7.2 | [Greedy Algorithms: When Local Is Global](https://learnsome.tech/learn/algorithms-course/m07l02) | [4 labs](labs/m07l02/) | Pro |
+| 7.3 | [Backtracking: Search With Pruning](https://learnsome.tech/learn/algorithms-course/m07l03) | [3 labs](labs/m07l03/) | Pro |
+| 7.4 | [Dynamic Programming: Memoisation And Tabulation](https://learnsome.tech/learn/algorithms-course/m07l04) | [4 labs](labs/m07l04/) | Pro |
+| 7.5 | [Recognising The Pattern](https://learnsome.tech/learn/algorithms-course/m07l05) | [3 labs](labs/m07l05/) | Pro |
+
+**Free** lessons are open to anyone with a free LearnSome.tech account; **Pro** lessons need a Pro membership to watch, run and grade on the site.
+
+## Licence
+
+- **Code** (starter files, `check` and `.learnsome/`, the dev container and the workflows) is under the [MIT licence](LICENSE).
+- **Written text** (the READMEs, lab instructions, lesson text, exercises and questions) is under [CC BY-NC-SA 4.0](LICENSE-text.md): share and adapt it with attribution to LearnSome.tech, not commercially, under the same licence.
+- The LearnSome.tech name and logo are not covered by either licence.
+
+## Contributing and security
+
+This repository is generated from the course. Report a broken lab or a content error [as an issue](../../issues/new/choose); see [CONTRIBUTING.md](CONTRIBUTING.md). Security reports go to [SECURITY.md](SECURITY.md).
+
+© 2026 LearnSome.tech

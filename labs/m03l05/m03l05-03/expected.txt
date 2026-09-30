@@ -1,2 +1,0 @@
-insert at front, deque faster: True
-random access, list faster: True

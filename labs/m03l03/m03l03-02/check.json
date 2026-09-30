@@ -1,0 +1,19 @@
+{
+  "lab": "m03l03-02",
+  "lesson": "m03l03",
+  "title": "Stack operations on a Python list",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-stack-operations-on-a-python-list.py",
+  "main": "shell-stack-operations-on-a-python-list.py",
+  "files": [
+    "shell-stack-operations-on-a-python-list.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

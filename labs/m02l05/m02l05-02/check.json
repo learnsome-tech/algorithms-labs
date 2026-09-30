@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-02",
+  "lesson": "m02l05",
+  "title": "A Bloom filter built on SHA two-fifty-six",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bloom_basic.py",
+  "main": "bloom_basic.py",
+  "files": [
+    "bloom_basic.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m07l05-03",
+  "lesson": "m07l05",
+  "title": "Capstone: one problem solved three ways",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 three_ways.py",
+  "main": "three_ways.py",
+  "files": [
+    "three_ways.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

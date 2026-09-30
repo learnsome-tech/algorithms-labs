@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-04",
+  "lesson": "m07l04",
+  "title": "Longest common subsequence with reconstruction",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 lcs.py",
+  "main": "lcs.py",
+  "files": [
+    "lcs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

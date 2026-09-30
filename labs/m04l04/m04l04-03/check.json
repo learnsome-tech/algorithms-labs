@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-03",
+  "lesson": "m04l04",
+  "title": "Tuple keys for multi-column sorting",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 multikey.py",
+  "main": "multikey.py",
+  "files": [
+    "multikey.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

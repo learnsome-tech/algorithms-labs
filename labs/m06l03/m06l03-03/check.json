@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-03",
+  "lesson": "m06l03",
+  "title": "Cycle detection with three-colour DFS marking",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 cycle_detect.py",
+  "main": "cycle_detect.py",
+  "files": [
+    "cycle_detect.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

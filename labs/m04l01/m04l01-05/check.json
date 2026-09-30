@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-05",
+  "lesson": "m04l01",
+  "title": "Comparison counts at three sizes",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sort_compare.py",
+  "main": "sort_compare.py",
+  "files": [
+    "sort_compare.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

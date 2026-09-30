@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-04",
+  "lesson": "m02l05",
+  "title": "Larger bit arrays produce fewer false positives",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bloom_compare.py",
+  "main": "bloom_compare.py",
+  "files": [
+    "bloom_compare.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

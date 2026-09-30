@@ -1,0 +1,19 @@
+{
+  "lab": "m07l05-04",
+  "lesson": "m07l05",
+  "title": "Verifying greedy equals optimal across a range",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 verify_coins.py",
+  "main": "verify_coins.py",
+  "files": [
+    "verify_coins.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

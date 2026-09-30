@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-02",
+  "lesson": "m06l03",
+  "title": "Recursive DFS: visit order through a directed graph",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dfs_visit.py",
+  "main": "dfs_visit.py",
+  "files": [
+    "dfs_visit.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

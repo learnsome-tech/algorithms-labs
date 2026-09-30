@@ -1,0 +1,19 @@
+{
+  "lab": "m06l02-05",
+  "lesson": "m06l02",
+  "title": "Level-order layers from the same BFS",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bfs_layers.py",
+  "main": "bfs_layers.py",
+  "files": [
+    "bfs_layers.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m03l04-02",
+  "lesson": "m03l04",
+  "title": "Sliding window with deque maxlen",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-sliding-window-with-deque-maxlen.py",
+  "main": "shell-sliding-window-with-deque-maxlen.py",
+  "files": [
+    "shell-sliding-window-with-deque-maxlen.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

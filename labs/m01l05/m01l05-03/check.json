@@ -1,0 +1,19 @@
+{
+  "lab": "m01l05-03",
+  "lesson": "m01l05",
+  "title": "Fixed increment vs doubling: total copy cost",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 compare_growth.py",
+  "main": "compare_growth.py",
+  "files": [
+    "compare_growth.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

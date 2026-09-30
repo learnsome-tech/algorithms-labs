@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-04",
+  "lesson": "m06l05",
+  "title": "Prim's algorithm: growing from a root vertex",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 prim.py",
+  "main": "prim.py",
+  "files": [
+    "prim.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

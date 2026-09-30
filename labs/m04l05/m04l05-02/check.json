@@ -1,0 +1,19 @@
+{
+  "lab": "m04l05-02",
+  "lesson": "m04l05",
+  "title": "Membership speed: set, bisect, and linear scan",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 membership.py",
+  "main": "membership.py",
+  "files": [
+    "membership.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

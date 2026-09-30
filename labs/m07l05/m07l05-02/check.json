@@ -1,0 +1,19 @@
+{
+  "lab": "m07l05-02",
+  "lesson": "m07l05",
+  "title": "A rule table that classifies problems",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 classify.py",
+  "main": "classify.py",
+  "files": [
+    "classify.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

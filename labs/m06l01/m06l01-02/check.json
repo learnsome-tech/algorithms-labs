@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-02",
+  "lesson": "m06l01",
+  "title": "Adjacency list: a dictionary of neighbour lists",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 adj_list.py",
+  "main": "adj_list.py",
+  "files": [
+    "adj_list.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

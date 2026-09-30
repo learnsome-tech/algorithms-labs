@@ -1,0 +1,19 @@
+{
+  "lab": "m04l02-05",
+  "lesson": "m04l02",
+  "title": "When key range becomes the bottleneck",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 limits.py",
+  "main": "limits.py",
+  "files": [
+    "limits.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-02",
+  "lesson": "m05l05",
+  "title": "Array-backed min-heap with sift-up and sift-down",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 minheap.py",
+  "main": "minheap.py",
+  "files": [
+    "minheap.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

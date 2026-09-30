@@ -1,0 +1,19 @@
+{
+  "lab": "m03l02-03",
+  "lesson": "m03l02",
+  "title": "Deletion and linear search",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sll_ops.py",
+  "main": "sll_ops.py",
+  "files": [
+    "sll_ops.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

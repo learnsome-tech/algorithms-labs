@@ -1,0 +1,19 @@
+{
+  "lab": "m05l03-02",
+  "lesson": "m05l03",
+  "title": "Left rotation: fixing a right-heavy chain",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 avlrotate.py",
+  "main": "avlrotate.py",
+  "files": [
+    "avlrotate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

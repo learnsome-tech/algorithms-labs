@@ -1,0 +1,19 @@
+{
+  "lab": "m02l03-04",
+  "lesson": "m02l03",
+  "title": "Implementing the hash-equals contract on a class",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hashcontract.py",
+  "main": "hashcontract.py",
+  "files": [
+    "hashcontract.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

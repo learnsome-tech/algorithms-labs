@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-02",
+  "lesson": "m04l04",
+  "title": "key=, reverse=, and operator.itemgetter",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-key-reverse-and-operator-itemgetter.py",
+  "main": "shell-key-reverse-and-operator-itemgetter.py",
+  "files": [
+    "shell-key-reverse-and-operator-itemgetter.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

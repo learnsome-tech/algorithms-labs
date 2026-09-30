@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-04",
+  "lesson": "m02l04",
+  "title": "Integer hashes are stable across all runs",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-integer-hashes-are-stable-across-all-runs.py",
+  "main": "shell-integer-hashes-are-stable-across-all-runs.py",
+  "files": [
+    "shell-integer-hashes-are-stable-across-all-runs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

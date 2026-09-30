@@ -1,0 +1,19 @@
+{
+  "lab": "m03l05-03",
+  "lesson": "m03l05",
+  "title": "Benchmark: front insertion and index access",
+  "mode": "run",
+  "runner": "python",
+  "command": "python3 seqbench.py",
+  "main": "seqbench.py",
+  "files": [
+    "seqbench.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "python3"
+  ],
+  "note": "what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-05",
+  "lesson": "m05l02",
+  "title": "Sorted insertion: the degenerate tree",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 degenerate.py",
+  "main": "degenerate.py",
+  "files": [
+    "degenerate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

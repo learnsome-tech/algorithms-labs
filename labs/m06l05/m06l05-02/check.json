@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-02",
+  "lesson": "m06l05",
+  "title": "Union-find: path compression and union by rank",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 union_find.py",
+  "main": "union_find.py",
+  "files": [
+    "union_find.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

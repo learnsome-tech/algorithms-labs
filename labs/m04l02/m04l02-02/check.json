@@ -1,0 +1,19 @@
+{
+  "lab": "m04l02-02",
+  "lesson": "m04l02",
+  "title": "Counting sort: one pass to count, one to reconstruct",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 counting_sort.py",
+  "main": "counting_sort.py",
+  "files": [
+    "counting_sort.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

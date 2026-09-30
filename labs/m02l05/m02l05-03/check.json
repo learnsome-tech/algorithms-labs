@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-03",
+  "lesson": "m02l05",
+  "title": "Measuring the false-positive rate on a fixed test set",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bloom_rate.py",
+  "main": "bloom_rate.py",
+  "files": [
+    "bloom_rate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

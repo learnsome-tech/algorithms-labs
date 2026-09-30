@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Building a reversed copy and measuring list sizes",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 reverse_copy.py",
+  "main": "reverse_copy.py",
+  "files": [
+    "reverse_copy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

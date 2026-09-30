@@ -1,0 +1,19 @@
+{
+  "lab": "m03l04-05",
+  "lesson": "m03l04",
+  "title": "A ring buffer with head and tail indices",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 ringbuf.py",
+  "main": "ringbuf.py",
+  "files": [
+    "ringbuf.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

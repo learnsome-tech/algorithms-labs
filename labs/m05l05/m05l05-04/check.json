@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-04",
+  "lesson": "m05l05",
+  "title": "Heap sort",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 heapsort.py",
+  "main": "heapsort.py",
+  "files": [
+    "heapsort.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

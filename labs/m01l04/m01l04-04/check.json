@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-04",
+  "lesson": "m01l04",
+  "title": "Watching the ratio with a simple function",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-watching-the-ratio-with-a-simple-function.py",
+  "main": "shell-watching-the-ratio-with-a-simple-function.py",
+  "files": [
+    "shell-watching-the-ratio-with-a-simple-function.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

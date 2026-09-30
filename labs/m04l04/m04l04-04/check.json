@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-04",
+  "lesson": "m04l04",
+  "title": "Stability composition: sort secondary then primary",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 stability_comp.py",
+  "main": "stability_comp.py",
+  "files": [
+    "stability_comp.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-04",
+  "lesson": "m02l02",
+  "title": "Linear probing fills the next free slot",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 linprobe.py",
+  "main": "linprobe.py",
+  "files": [
+    "linprobe.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

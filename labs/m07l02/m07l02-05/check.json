@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-05",
+  "lesson": "m07l02",
+  "title": "Huffman coding: greedy by frequency",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 huffman.py",
+  "main": "huffman.py",
+  "files": [
+    "huffman.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

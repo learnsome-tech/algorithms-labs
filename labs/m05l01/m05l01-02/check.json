@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-02",
+  "lesson": "m05l01",
+  "title": "A Node class and a seven-node tree",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 btree.py",
+  "main": "btree.py",
+  "files": [
+    "btree.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

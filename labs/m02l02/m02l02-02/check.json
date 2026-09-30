@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-02",
+  "lesson": "m02l02",
+  "title": "A chaining hash map stores pairs in bucket lists",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 chain.py",
+  "main": "chain.py",
+  "files": [
+    "chain.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-04",
+  "lesson": "m06l01",
+  "title": "Space: sparse versus dense graphs",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-space-sparse-versus-dense-graphs.py",
+  "main": "shell-space-sparse-versus-dense-graphs.py",
+  "files": [
+    "shell-space-sparse-versus-dense-graphs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

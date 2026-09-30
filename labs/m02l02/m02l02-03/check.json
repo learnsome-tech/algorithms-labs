@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-03",
+  "lesson": "m02l02",
+  "title": "Tracking load factor and signalling a resize",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 loadfactor.py",
+  "main": "loadfactor.py",
+  "files": [
+    "loadfactor.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

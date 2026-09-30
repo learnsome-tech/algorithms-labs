@@ -1,0 +1,19 @@
+{
+  "lab": "m05l03-03",
+  "lesson": "m05l03",
+  "title": "AVL insert with single and double rotations",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 avlins.py",
+  "main": "avlins.py",
+  "files": [
+    "avlins.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

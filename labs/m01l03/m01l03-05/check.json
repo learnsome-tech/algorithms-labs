@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-05",
+  "lesson": "m01l03",
+  "title": "Converting recursion to iteration",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 iterative_sum.py",
+  "main": "iterative_sum.py",
+  "files": [
+    "iterative_sum.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-06",
+  "lesson": "m06l01",
+  "title": "Weighted directed graph with tuple adjacency lists",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 weighted_graph.py",
+  "main": "weighted_graph.py",
+  "files": [
+    "weighted_graph.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

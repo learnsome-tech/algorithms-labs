@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-02",
+  "lesson": "m02l04",
+  "title": "Counting comparisons: constant hash versus polynomial hash",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 badhash.py",
+  "main": "badhash.py",
+  "files": [
+    "badhash.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m06l04-03",
+  "lesson": "m06l04",
+  "title": "Dijkstra: distances on a weighted road graph",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dijkstra.py",
+  "main": "dijkstra.py",
+  "files": [
+    "dijkstra.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

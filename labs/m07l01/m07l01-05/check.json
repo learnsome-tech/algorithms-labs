@@ -1,0 +1,19 @@
+{
+  "lab": "m07l01-05",
+  "lesson": "m07l01",
+  "title": "Divide and conquer cuts the work to n log n",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 maxsub_dc.py",
+  "main": "maxsub_dc.py",
+  "files": [
+    "maxsub_dc.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

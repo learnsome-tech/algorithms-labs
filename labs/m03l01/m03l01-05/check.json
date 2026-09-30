@@ -1,0 +1,19 @@
+{
+  "lab": "m03l01-05",
+  "lesson": "m03l01",
+  "title": "Slices as independent copies",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-slices-as-independent-copies.py",
+  "main": "shell-slices-as-independent-copies.py",
+  "files": [
+    "shell-slices-as-independent-copies.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

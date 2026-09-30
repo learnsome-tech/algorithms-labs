@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-03",
+  "lesson": "m07l03",
+  "title": "Subset sum: how pruning cuts the search tree",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 subsum.py",
+  "main": "subsum.py",
+  "files": [
+    "subsum.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

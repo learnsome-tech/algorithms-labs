@@ -1,0 +1,19 @@
+{
+  "lab": "m04l02-03",
+  "lesson": "m04l02",
+  "title": "Building the count array by hand",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-building-the-count-array-by-hand.py",
+  "main": "shell-building-the-count-array-by-hand.py",
+  "files": [
+    "shell-building-the-count-array-by-hand.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-03",
+  "lesson": "m05l02",
+  "title": "Search and minimum in a BST",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bstsearch.py",
+  "main": "bstsearch.py",
+  "files": [
+    "bstsearch.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

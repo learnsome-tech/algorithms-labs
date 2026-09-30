@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-06",
+  "lesson": "m06l03",
+  "title": "Verifying the topological order",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-verifying-the-topological-order.py",
+  "main": "shell-verifying-the-topological-order.py",
+  "files": [
+    "shell-verifying-the-topological-order.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

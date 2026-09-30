@@ -1,0 +1,19 @@
+{
+  "lab": "m03l05-02",
+  "lesson": "m03l05",
+  "title": "Decision table for common scenarios",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 decision.py",
+  "main": "decision.py",
+  "files": [
+    "decision.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

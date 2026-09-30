@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-03",
+  "lesson": "m05l01",
+  "title": "In-order, pre-order and post-order traversals",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 traversals.py",
+  "main": "traversals.py",
+  "files": [
+    "traversals.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

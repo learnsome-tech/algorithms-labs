@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-04",
+  "lesson": "m04l03",
+  "title": "The bisect module in the Shell",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-bisect-module-in-the-shell.py",
+  "main": "shell-the-bisect-module-in-the-shell.py",
+  "files": [
+    "shell-the-bisect-module-in-the-shell.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

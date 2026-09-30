@@ -1,0 +1,19 @@
+{
+  "lab": "m01l05-02",
+  "lesson": "m01l05",
+  "title": "A dynamic array that counts its copies",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dynamic_array.py",
+  "main": "dynamic_array.py",
+  "files": [
+    "dynamic_array.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

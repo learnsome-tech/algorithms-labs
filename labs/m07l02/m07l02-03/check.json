@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-03",
+  "lesson": "m07l02",
+  "title": "Coin change: greedy works for standard coins",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 coin_us.py",
+  "main": "coin_us.py",
+  "files": [
+    "coin_us.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

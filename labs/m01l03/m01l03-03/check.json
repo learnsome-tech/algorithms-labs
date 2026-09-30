@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-03",
+  "lesson": "m01l03",
+  "title": "Reversing in place, reusing the same memory",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 reverse_inplace.py",
+  "main": "reverse_inplace.py",
+  "files": [
+    "reverse_inplace.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

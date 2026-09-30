@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-03",
+  "lesson": "m02l01",
+  "title": "Stable string digests with SHA two-fifty-six",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 stable_hash.py",
+  "main": "stable_hash.py",
+  "files": [
+    "stable_hash.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

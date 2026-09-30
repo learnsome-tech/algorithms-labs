@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-03",
+  "lesson": "m01l04",
+  "title": "Best, worst, and average case with linear search",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 linear_search_count.py",
+  "main": "linear_search_count.py",
+  "files": [
+    "linear_search_count.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

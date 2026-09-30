@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-04",
+  "lesson": "m01l02",
+  "title": "Halving and the logarithm",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-halving-and-the-logarithm.py",
+  "main": "shell-halving-and-the-logarithm.py",
+  "files": [
+    "shell-halving-and-the-logarithm.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

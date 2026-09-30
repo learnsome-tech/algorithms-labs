@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-04",
+  "lesson": "m05l01",
+  "title": "Level-order traversal with a deque",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 levelorder.py",
+  "main": "levelorder.py",
+  "files": [
+    "levelorder.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

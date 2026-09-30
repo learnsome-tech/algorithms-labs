@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-03",
+  "lesson": "m05l04",
+  "title": "B-tree insert with node splitting",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 btinsert.py",
+  "main": "btinsert.py",
+  "files": [
+    "btinsert.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}
