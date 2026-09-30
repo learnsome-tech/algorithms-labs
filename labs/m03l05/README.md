@@ -9,7 +9,7 @@ Module 3: Sequences: Arrays, Lists, Stacks And Queues · lesson 3.5 · Pro · [O
 | Lab | What it is | Check |
 | --- | --- | --- |
 | [m03l05-02](m03l05-02/) | Decision table for common scenarios | Graded |
-| [m03l05-03](m03l05-03/) | Benchmark: front insertion and index access | Runs, not graded |
+| [m03l05-03](m03l05-03/) | Benchmark: front insertion and index access | Graded |
 | [m03l05-05](m03l05-05/) | When list and deque perform alike | Graded |
 
 ## Exercises

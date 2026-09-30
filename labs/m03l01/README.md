@@ -9,7 +9,7 @@ Module 3: Sequences: Arrays, Lists, Stacks And Queues · lesson 3.1 · Pro · [O
 | Lab | What it is | Check |
 | --- | --- | --- |
 | [m03l01-02](m03l01-02/) | Measuring storage with array and list | Graded |
-| [m03l01-03](m03l01-03/) | Verifying constant-time index access | Runs, not graded |
+| [m03l01-03](m03l01-03/) | Verifying constant-time index access | Graded |
 | [m03l01-04](m03l01-04/) | Counting the cost of front insertion | Graded |
 | [m03l01-05](m03l01-05/) | Slices as independent copies | Graded |
 

@@ -40,8 +40,7 @@ This repository holds the labs of the LearnSome.tech course [Algorithms & Data S
 
 | Check | What `./check` does | Labs |
 | --- | --- | --- |
-| Graded | Runs the program and compares its output with `expected.txt`. | 127 |
-| Runs, not graded | Runs the program and shows its output; the site gives no pass or fail, and the lab README says why. | 2 |
+| Graded | Runs the program and compares its output with `expected.txt`. | 129 |
 
 ## What is published, and what is not
 
